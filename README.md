@@ -1,5 +1,7 @@
 # Java Product Catalog and Shopping Basket
 
+![Java CI](https://github.com/aaminter/dz202_oop/actions/workflows/ci.yml/badge.svg)
+
 Консольная учебная модель каталога товаров и корзины покупателя.
 
 ## Компоненты
